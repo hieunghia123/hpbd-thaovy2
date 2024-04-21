@@ -95,3 +95,8 @@ h4 {
   left: 270px;
   color: #b78690;
 }
+@media all and (max-width: 320px) {
+   body {
+      background: #e7e7e7;
+   }
+}
